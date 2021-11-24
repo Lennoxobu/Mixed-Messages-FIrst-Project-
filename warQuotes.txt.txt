@@ -1,0 +1,17 @@
+War quotes mixed messages project - Javascript 
+
+1. The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.”
+― G.K. Chesterton
+
+2. “Appear weak when you are strong, and strong when you are weak.”
+― Sun Tzu, The Art of War
+
+3.“Older men declare war. But it is youth that must fight and die.”
+― Herbert Hoover
+
+4.“What difference does it make to the dead, the orphans and the homeless, whether the mad destruction is wrought under the name of totalitarianism or in the holy name of liberty or democracy?”
+― Mahatma Gandhi
+
+
+5.“Imagination is the only weapon in the war against reality.”
+― Lewis Carroll
